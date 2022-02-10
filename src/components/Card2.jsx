@@ -3,8 +3,8 @@ import BuyButton from './BuyButton';
 
 const Card2 = () => {
     return(
-      <div className="card">
-        <img className='card__photo' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdPsGJEBxBev7gKo_EMp0Pgk7Q7su_xTUxf3vo8dE9S_CiG2Z" alt="" srcset="" />
+      <div className="card ml-md">
+        <img className='card__photo' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdPsGJEBxBev7gKo_EMp0Pgk7Q7su_xTUxf3vo8dE9S_CiG2Z" alt="" />
 
         <div className='card__description'>
           <div className='card__description-content'>
